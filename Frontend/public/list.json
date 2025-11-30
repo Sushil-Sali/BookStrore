@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Once open time the king was enterd in forest",
+        "price":0,
+        "category":"free",
+        "image":"https://www.freepik.com/free-photo/stack-books-black-wooden-table_21708614.htm#fromView=search&page=2&position=36&uuid=de54ac08-3d2a-47ad-a8f6-ac776dd407c0&query=Books+images+free"
+    },
+     {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Gangaram",
+        "price":0,
+        "category":"free",
+        "image":"https://www.freepik.com/free-photo/stack-books-black-wooden-table_21708614.htm#fromView=search&page=2&position=36&uuid=de54ac08-3d2a-47ad-a8f6-ac776dd407c0&query=Books+images+free"
+    },
+     {
+        "id":3,
+        "name":"Story Book",
+        "title":"Once open time the king was enterd in forest",
+        "price":0,
+        "category":"free",
+        "image":"https://www.freepik.com/free-photo/stack-books-black-wooden-table_21708614.htm#fromView=search&page=2&position=36&uuid=de54ac08-3d2a-47ad-a8f6-ac776dd407c0&query=Books+images+free"
+    },
+      {
+        "id":4,
+        "name":"Comedy Book",
+        "title":"Gangaram",
+        "price":0,
+        "category":"free",
+        "image":"https://www.freepik.com/free-photo/stack-books-black-wooden-table_21708614.htm#fromView=search&page=2&position=36&uuid=de54ac08-3d2a-47ad-a8f6-ac776dd407c0&query=Books+images+free"
+    },
+    {
+        "id":5,
+        "name":"Litreture",
+        "title":"English Litreture",
+        "price":0,
+        "category":"Paid",
+        "image":"https://www.freepik.com/free-photo/stack-books-black-wooden-table_21708614.htm#fromView=search&page=2&position=36&uuid=de54ac08-3d2a-47ad-a8f6-ac776dd407c0&query=Books+images+free"
+    },
+    {
+        "id":6,
+        "name":"Comics",
+        "title":"English Litreture",
+        "price":0,
+        "category":"Paid",
+        "image":"https://www.freepik.com/free-photo/stack-books-black-wooden-table_21708614.htm#fromView=search&page=2&position=36&uuid=de54ac08-3d2a-47ad-a8f6-ac776dd407c0&query=Books+images+free"
+    },
+    {
+        "id":7,
+        "name":"Remove Overthinking",
+        "title":"English Litreture",
+        "price":0,
+        "category":"Paid",
+        "image":"https://www.freepik.com/free-photo/stack-books-black-wooden-table_21708614.htm#fromView=search&page=2&position=36&uuid=de54ac08-3d2a-47ad-a8f6-ac776dd407c0&query=Books+images+free"
+    },
+    {
+        "id":8,
+        "name":"Marathi Sahitya",
+        "title":"Marathi Litreture",
+        "price":0,
+        "category":"Paid",
+        "image":"https://www.freepik.com/free-photo/stack-books-black-wooden-table_21708614.htm#fromView=search&page=2&position=36&uuid=de54ac08-3d2a-47ad-a8f6-ac776dd407c0&query=Books+images+free"
+    }
+]
+
